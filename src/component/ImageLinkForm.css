@@ -1,0 +1,17 @@
+.form {
+  width: 700px;
+
+  background: conic-gradient(
+    from 45deg,
+    #ffffff1a 0,
+    #d3d3d39d 90deg,
+    #ffffff44 90deg,
+    #ffffff71 180deg,
+    #ffffff3a 180deg,
+    #0c0c0c31 270deg,
+    #08080811 270deg,
+    #ffffff 360deg
+  );
+  background-size: 1em 1em;
+  height: fit-content;
+}
